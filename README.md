@@ -14,3 +14,14 @@ The PCB itself is very simple, but I tried to keep it fairly compact so it can f
 
 ^^ wiring info also printed on PCB!
 
+| Item                  | Price ($) | Quantity | Total ($) | Link |
+|-----------------------|-----------|----------|-----------|------|
+| Nanofit 2x8           | 4.60      | 4        | 18.40     | https://www.digikey.com/en/products/detail/molex/1053101216/6164149? |
+| Nanofit 1x4           | 1.11      | 8        | 8.88      | https://www.digikey.com/en/products/detail/molex/1053091204/6131609? |
+| Nanofit 1x2           | 0.95      | 16       | 15.20     | https://www.digikey.com/en/products/detail/molex/1053091202/6131607? |
+| Nanofit 2x8 connector | 0.98      | 4        | 3.92      | https://www.digikey.com/en/products/detail/molex/1053081216/6164114? |
+| Nanofit 1x4 connector | 0.41      | 8        | 3.28      | https://www.digikey.com/en/products/detail/molex/1053071204/6131602? |
+| Nanofit 1x2 connector | 0.35      | 16       | 5.60      | https://www.digikey.com/en/products/detail/molex/1053071202/6131600? |
+| Crimp                 | 0.34      | 100      | 34.00     | https://www.digikey.com/en/products/detail/molex/1053001300/6164097? |
+| PCB                   | 3.00      | 1        | 3.00      | JLCPCB |
+
