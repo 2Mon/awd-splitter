@@ -22,6 +22,6 @@ The PCB itself is very simple, but I tried to keep it fairly compact so it can f
 | Nanofit 2x8 connector | 0.98      | 4        | 3.92      | https://www.digikey.com/en/products/detail/molex/1053081216/6164114? |
 | Nanofit 1x4 connector | 0.41      | 8        | 3.28      | https://www.digikey.com/en/products/detail/molex/1053071204/6131602? |
 | Nanofit 1x2 connector | 0.35      | 16       | 5.60      | https://www.digikey.com/en/products/detail/molex/1053071202/6131600? |
-| Crimp                 | 0.34      | 100      | 34.00     | https://www.digikey.com/en/products/detail/molex/1053001300/6164097? |
+| Crimp                 | 0.11      | 140      | 15.4      | https://www.digikey.com/en/products/detail/molex/1053002100/7693143? |
 | PCB                   | 3.00      | 1        | 3.00      | JLCPCB |
 
