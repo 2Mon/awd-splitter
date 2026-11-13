@@ -1,7 +1,7 @@
 # awd-splitter
 A compact breakout PCB for wiring AWD 3D printers, rated for 105 °C chambers.
 
-<img width="174" height="403" alt="Splitter PCB" src="https://github.com/user-attachments/assets/5cb024f6-02f2-4da3-bab8-f663cd6c99c8" />
+<img height="200" alt="Splitter PCB" src="https://cdn.hackclub.com/01a1d553-1cb0-7d79-b6e8-28dc5cdbac97/screenshot_2026-11-13_at_9.32.30___am.png" />
 
 ## Why?
 
