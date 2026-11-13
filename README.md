@@ -24,8 +24,6 @@ AWD 3D Printers typically need 12 separate cable runs from the gantry to the ele
 4. Crimp enough wire to 16 pin connectors to reach electronics bay
 5. In electronics bay, plug into another splitter or crimp JST-PH connectors. 
 
-<img width="495" height="507" alt="Screenshot 2026-02-19 at 7 45 32 PM" src="https://github.com/user-attachments/assets/32612db9-26ee-46a9-937f-804eea03a147" />
-
 ## Pinout
 
 Each board has two 2×8 Nano-Fit headers: one carries all four motors, the other carries all four thermistors and fans. Pins 1–8 are one row and pins 9–16 are the other. Pin numbers follow the Molex housing cavity numbers.
