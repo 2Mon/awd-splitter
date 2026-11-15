@@ -3,6 +3,8 @@ A compact breakout PCB for wiring AWD 3D printers, rated for 105 °C chambers.
 
 <img height="200" alt="Splitter PCB" src="https://cdn.hackclub.com/01a1d553-1cb0-7d79-b6e8-28dc5cdbac97/screenshot_2026-11-13_at_9.32.30___am.png" />
 
+Check out my engineering design process in [JOURNAL.md](JOURNAL.md)!
+
 ## Why?
 
 AWD 3D Printers typically need 12 separate cable runs from the gantry to the electronics bay: four for motors and eight for fans and thermistors. This board collapses that into two 16 pin cables. At the electronics end, either use another PCB to break the 16 pin cables back out, or crimp on your own connectors. 
